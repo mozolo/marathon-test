@@ -6,7 +6,7 @@
   "container": {
     "type": "DOCKER",
     "docker": {
-      "image": "mozolo/vweb:1.0",
+      "image": "mozolo/vweb:2.0",
       "network": "BRIDGE",
       "portMappings": [
           {
